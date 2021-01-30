@@ -1,0 +1,14 @@
+{
+  "name": "firstnodeproject",
+  "version": "1.0.0",
+  "description": "my first mongodb node.js project",
+  "main": "firstNode.js",
+  "scripts": {
+    "test": "testIt"
+  },
+  "author": "amey",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.5.9"
+  }
+}
